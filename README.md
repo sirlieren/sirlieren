@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Game Developing, 2D/3D Game Asset Creation<br>👯 Game projects, mobile applications and website development.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning  Flutter and German language.<br>💬 Ask me about game development, 2D/3D design or programming in C#, Python, JavaScript, and React.<br>⚡ I both love and hate being a game developer.
+🔭 Game Developing, 2D/3D Game Asset Creation<br>👯 Game projects, mobile applications and website development. <br>💬 Ask me about game development, 2D/3D design or programming in C#, Python, JavaScript, and React.<br>⚡ I both love and hate being a game developer.
 
 
 ## 🌐 Socials:
