@@ -1,35 +1,44 @@
 <div align="center">
 
-# Eren
+# Eren Sırlı
 
-### Games. Design. Code.
 
-I build games, create 2D & 3D assets, and develop for mobile and the web.<br>
-From the first sketch to the last line of code, I care about the details.
 
-[LinkedIn](https://www.linkedin.com/in/eren-sirli/) &nbsp; / &nbsp; [X](https://x.com/erenimi0) &nbsp; / &nbsp; [YouTube](https://www.youtube.com/@blank-gd)
+Unity game developer focused on C# and gameplay programming.<br>
+I turn ideas into playable games, from the first prototype to the Steam release.
+
+[Portfolio](https://sirlieren.github.io/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/eren-sirli/) &nbsp; / &nbsp; [YouTube](https://www.youtube.com/@blank-GD) &nbsp; / &nbsp; [X](https://x.com/erenimi0)
 
 </div>
 
 ---
 
-### What I do
+### A little about me
 
-**Build worlds.** Game development, gameplay, and 2D / 3D asset creation.  
-**Make things work.** Mobile apps, websites, and the code behind them.  
-**Shape the details.** Modeling, pixel art, and visual design.
+Programming is my core craft. I build gameplay systems, player abilities, and enemy AI, with an eye for responsiveness and game feel. When the game needs it, I step into design, UI, 2D / 3D assets, and sound.
+
+### Selected work
+
+| Game | My part |
+| :--- | :--- |
+| [Bug Bane Survivors ↗](https://sirlieren.github.io/projects/bug-bane.html) | Solo development · Combat feedback, game feel, and Steam release |
+| [Foes of Legacy: Survivors ↗](https://sirlieren.github.io/projects/foes-of-legacy.html) | Co-development · Player abilities, enemy AI, UI, and optimization |
+
+[More projects & case studies ↗](https://sirlieren.github.io/#projects)
 
 ### My toolkit
 
-| Development | Design |
+| Core | Across production |
 | :--- | :--- |
-| C# · JavaScript · Python | Blender · Aseprite · Photoshop |
-| React · HTML · CSS · Dart | 2D & 3D assets · Pixel art |
+| Unity · C# · Git | Blender · Aseprite · Photoshop |
+| Gameplay systems · AI · Optimization | Game design · UI · SFX |
 
-### Let's talk
+Also comfortable with Python, JavaScript, React, HTML, and CSS.
 
-Game development, design, or something worth building together.<br>
-[Find me on LinkedIn ↗](https://www.linkedin.com/in/eren-sirli/)
+### Let's build the next game.
+
+Open to game development roles and collaborations.<br>
+[Get in touch ↗](https://sirlieren.github.io/#contact)
 
 ---
 
